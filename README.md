@@ -48,4 +48,3 @@ Aquí encontrarás una recopilación de mis proyectos de **pruebas de software m
 ---
 
 ✍️ _Última actualización: 2025_
-
